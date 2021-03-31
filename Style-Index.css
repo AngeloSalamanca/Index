@@ -31,14 +31,11 @@ section{
 }
 .hobbies{
     background-color: #39ff14;
-    left: 25%;
     text-align: start;
     box-shadow: 10px 10px 20px rgba(50, 126, 43, 0.863);
-    list-style: none;
 }
 .sp{
     background-color: #39ff14;
-    left: 50%;
     text-align: start;
     box-shadow: 10px 10px 20px rgba(50, 126, 43, 0.863);
 }
@@ -47,7 +44,6 @@ section{
 }
 .idolos{
     background-color: #39ff14;
-    left: 75%;
     text-align: start;
     box-shadow: 10px 10px 20px rgba(50, 126, 43, 0.863);
 }
