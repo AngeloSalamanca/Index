@@ -29,6 +29,35 @@ section{
     margin: auto;
     border-radius: 25px 25px 25px 25px;
 }
+.hobbies{
+    background-color: #39ff14;
+    left: 25%;
+    text-align: start;
+    box-shadow: 10px 10px 20px rgba(50, 126, 43, 0.863);
+    list-style: none;
+}
+.sp{
+    background-color: #39ff14;
+    left: 50%;
+    text-align: start;
+    box-shadow: 10px 10px 20px rgba(50, 126, 43, 0.863);
+}
+.sp a:hover{
+    color: rgb(17, 117, 22);
+}
+.idolos{
+    background-color: #39ff14;
+    left: 75%;
+    text-align: start;
+    box-shadow: 10px 10px 20px rgba(50, 126, 43, 0.863);
+}
+.idolos a:hover{
+    color: rgb(17, 117, 22);
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+}
 .botonF{
     background-image: url(img/Facebook.png);
     background-size: 135px 50px;
